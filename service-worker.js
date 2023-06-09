@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "99c6e484fec8b44ecf78922a6e965bf6"
+    "revision": "90ac6fb0c7a5a5ea064330df07cfa0bd"
   },
   {
     "url": "assets/css/0.styles.4522ba09.css",
@@ -54,12 +54,12 @@ self.__precacheManifest = [
     "revision": "3d0e882b841b9d53af9040c9939dbc55"
   },
   {
-    "url": "assets/js/12.9923bf29.js",
-    "revision": "249537e9d4086f3fb1559af82c37b1b4"
+    "url": "assets/js/12.7716d1a6.js",
+    "revision": "d23315c269efa1a2b9afce77306f148d"
   },
   {
-    "url": "assets/js/13.8b9c0517.js",
-    "revision": "59b9bedd305136e171b10b2d95b50eae"
+    "url": "assets/js/13.b25ccd62.js",
+    "revision": "3c4dda22cc66e0dfa17979b8fcf6eab6"
   },
   {
     "url": "assets/js/14.03c13a34.js",
@@ -102,64 +102,64 @@ self.__precacheManifest = [
     "revision": "1ad43d3efa493911d3158347937dac76"
   },
   {
-    "url": "assets/js/app.fea3c857.js",
-    "revision": "2a4384f2f9e3c209ec9e2a48791c69bd"
+    "url": "assets/js/app.ea82c86f.js",
+    "revision": "826213e83241747b1683ee91e86a3eab"
   },
   {
     "url": "auto-deploy-blog-by-github-actions.html",
-    "revision": "77481541d6bff5b7b084991aa122c055"
+    "revision": "32e8126f4ae10cef306ced46912b2162"
   },
   {
     "url": "categories/index.html",
-    "revision": "b77fc91fd5820d71a6ac81f674de8548"
+    "revision": "9f07ab6fe5ef0f9302ff8866b6fb435c"
   },
   {
     "url": "categories/工具/index.html",
-    "revision": "a3c8332d567f48ce62f8440d67e8081e"
+    "revision": "e3a43b98e081ab168d44f9f90db25aca"
   },
   {
     "url": "categories/随笔/index.html",
-    "revision": "07704ac45c3521920ff6070a79a45d76"
+    "revision": "07b39ab306ab04a3b7ec240bf60d5e6a"
   },
   {
     "url": "how-do-i-learn-python.html",
-    "revision": "b5ed3dfcf5965d1b4f056671992768f0"
+    "revision": "f4edc4a8374c64bc55a9f5488f4f3f2a"
   },
   {
     "url": "index.html",
-    "revision": "e3a8fc7640888bb8a893cd703692a51f"
+    "revision": "2a0f28d91f5242235d608d99d5dd96f0"
   },
   {
     "url": "tag/GitHub Actions/index.html",
-    "revision": "83a7dbd7b494b00e58b01832900d7f3e"
+    "revision": "96a80ba1bd2a33dd4d54bb47772249df"
   },
   {
     "url": "tag/index.html",
-    "revision": "06e5ed96d43bd17a6d9ee88e0b9dede9"
+    "revision": "3471812df54d5d938fd2b51810da35c5"
   },
   {
     "url": "tag/Web Scraper/index.html",
-    "revision": "5bf280b79d976a6e173922080732f8c9"
+    "revision": "054838f51bfece14eaa7e35cb74a7550"
   },
   {
     "url": "tag/博客/index.html",
-    "revision": "e8817595fe4a43abade07e5cf4bd91f9"
+    "revision": "71fd8caf469a9d87576b1da58e48c3f0"
   },
   {
     "url": "tag/随笔/index.html",
-    "revision": "5456c3987efb00ca1abd98cd24441057"
+    "revision": "92ac16a79a57daafa6cc55dfc592a311"
   },
   {
     "url": "timeline/index.html",
-    "revision": "e60319d8e893ce1e4c07e07f2a199ae1"
+    "revision": "3971ddde9896ed6a2439a50fd1e24379"
   },
   {
     "url": "vuepress-github-pages.html",
-    "revision": "5a16330c87c304bfdcc7eb6695ce9b63"
+    "revision": "07308c8a825ea87b0be626aac0c98ced"
   },
   {
     "url": "web-scraper.html",
-    "revision": "6682492bb9d3a17f47750a99f3d3e3b1"
+    "revision": "6fded3952f79d20e6a5e8d60d9643afb"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

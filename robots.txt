@@ -1,3 +1,3 @@
-Sitemap: https://somenzz.github.io/sitemap.xml
+Sitemap: https://qinglanyi.xyz/sitemap.xml
 
 User-agent: *

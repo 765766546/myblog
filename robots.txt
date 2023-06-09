@@ -1,3 +1,0 @@
-Sitemap: https://somenzz.github.io/sitemap.xml
-
-User-agent: *

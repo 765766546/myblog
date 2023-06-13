@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3b06710d518b5094ac3a7e2a0e459261"
+    "revision": "75d4a49b2f77e5859ae5ccf5bf709461"
   },
   {
     "url": "assets/css/0.styles.4522ba09.css",
@@ -42,20 +42,20 @@ self.__precacheManifest = [
     "revision": "e46f9dc2d0bc9e5f62ab688e1675b616"
   },
   {
-    "url": "assets/js/1.dc19eba6.js",
-    "revision": "428cb7969ee9e4f4e4d50ea7aa3b7101"
+    "url": "assets/js/1.5ba8257e.js",
+    "revision": "d84d7e882a7360c8dd35adf979878bff"
   },
   {
-    "url": "assets/js/10.851bf250.js",
-    "revision": "55567e157924abf14bed3f9bf2db5461"
+    "url": "assets/js/10.a962667b.js",
+    "revision": "593871440d838e913925ba765570bcc3"
   },
   {
     "url": "assets/js/11.f5c3d59a.js",
     "revision": "3d0e882b841b9d53af9040c9939dbc55"
   },
   {
-    "url": "assets/js/12.7716d1a6.js",
-    "revision": "d23315c269efa1a2b9afce77306f148d"
+    "url": "assets/js/12.2877a420.js",
+    "revision": "497a99c0705a063488922e7f89892b61"
   },
   {
     "url": "assets/js/13.b25ccd62.js",
@@ -74,20 +74,20 @@ self.__precacheManifest = [
     "revision": "d1dc66dd30e93a707a88a5c4bf89a5d1"
   },
   {
-    "url": "assets/js/3.041ba4dc.js",
-    "revision": "f4db067d4b1ff41583a5d79a669b8ea1"
+    "url": "assets/js/3.c6a1f06f.js",
+    "revision": "1a1930be4b149d5f55a152f1dccf0cba"
   },
   {
-    "url": "assets/js/4.f60db9fd.js",
-    "revision": "6b535fdb7a43793d2f2b397a65d07e73"
+    "url": "assets/js/4.e7588b00.js",
+    "revision": "d552d3305a1d4e6be903c6ee0e057372"
   },
   {
-    "url": "assets/js/5.4b1e5522.js",
-    "revision": "2db0569d2acbb21cfb8463eef05d92ba"
+    "url": "assets/js/5.cd2a3d55.js",
+    "revision": "b17aa5319c87492bc42de6e033ab6d1d"
   },
   {
-    "url": "assets/js/6.1ecf8bc9.js",
-    "revision": "b169d154d100cf9505374677d3d710d2"
+    "url": "assets/js/6.3aee6ccb.js",
+    "revision": "4dd36bb5d6d4723613d176266b64a8af"
   },
   {
     "url": "assets/js/7.b7b70b29.js",
@@ -102,64 +102,64 @@ self.__precacheManifest = [
     "revision": "1ad43d3efa493911d3158347937dac76"
   },
   {
-    "url": "assets/js/app.856d988a.js",
-    "revision": "f567560814613ffa169f4bead940ea93"
+    "url": "assets/js/app.7b69d186.js",
+    "revision": "a28a3ee95a4c341a05a4209d5af3feb6"
   },
   {
     "url": "auto-deploy-blog-by-github-actions.html",
-    "revision": "06090a301ba51b2c4f7537bd57e5f378"
+    "revision": "68110ed3d44ff3e14def7526d6e6a9c2"
   },
   {
     "url": "categories/index.html",
-    "revision": "879df40282fc33543446eacc60588dc9"
+    "revision": "0f91cec2a9a3add559d386bffc30b50c"
   },
   {
     "url": "categories/工具/index.html",
-    "revision": "ec4f5ad8f467cfdb3d51dcc98ade93b1"
+    "revision": "14537229ed4e270dc2b3924b96932370"
   },
   {
     "url": "categories/随笔/index.html",
-    "revision": "7e09d2aebf12c5f6c8c4c0ee6450da6c"
+    "revision": "b52944c92cfb44f978d52275485f2775"
   },
   {
     "url": "how-do-i-learn-python.html",
-    "revision": "ec2679b6318de165132123dc499a62c8"
+    "revision": "0d5faa12eb6d55e13e7d8646f3a60cf9"
   },
   {
     "url": "index.html",
-    "revision": "d66d57d61cb7ddae621a11a34474026b"
+    "revision": "fbc4c0f340cc805ba9b32cda2328ef6c"
   },
   {
     "url": "tag/GitHub Actions/index.html",
-    "revision": "cc0df8627edf53b8652678761fdd4e00"
+    "revision": "ba5077bd4c0dfe831c4a837c77dfe6c4"
   },
   {
     "url": "tag/index.html",
-    "revision": "48d53ad13d91dd1330a45e8b91471b76"
+    "revision": "4f1f314453e50da91907117da84ae4fc"
   },
   {
     "url": "tag/Web Scraper/index.html",
-    "revision": "f8bd75149c4eb98695805d020feca89b"
+    "revision": "c84ae4cac6a49c20c130eb68709caee6"
   },
   {
     "url": "tag/博客/index.html",
-    "revision": "8dfd5ce2a4562eb533dc6f7b16b67828"
+    "revision": "c124c4c24856def3c2cfa02d15b5c79a"
   },
   {
     "url": "tag/随笔/index.html",
-    "revision": "b9eb8135f478d0a32fd5f0ec4497b8fa"
+    "revision": "33520f5edc1cb6cca4ad35b334cdc3ab"
   },
   {
     "url": "timeline/index.html",
-    "revision": "924e43086d75fce78c8d19cf988dc7dc"
+    "revision": "5890709a15575ee168faa0979263949c"
   },
   {
     "url": "vuepress-github-pages.html",
-    "revision": "23625d46ccda183fd054ad02e141ddf3"
+    "revision": "e4bdd241bfa746b19967cb818edf9792"
   },
   {
     "url": "web-scraper.html",
-    "revision": "0f013df6af8943f6d3f56a011d14dc6c"
+    "revision": "3968e18a18bd8ccc407ca342540f33d0"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

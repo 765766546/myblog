@@ -131,11 +131,11 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/工具/index.html",
-    "revision": "29e3d5ada38904d2e3203448058493dd"
+    "revision": "1195219960aa9491be315bdf25aebbfd"
   },
   {
     "url": "categories/随笔/index.html",
-    "revision": "e9fe9a50e121b7efb3f2903006b3e634"
+    "revision": "a27c47594a80b8d77c675ed55fe38aa7"
   },
   {
     "url": "how-do-i-learn-python.html",
@@ -143,27 +143,27 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "066f78ccd65a8e956ff6bc91363f94d8"
+    "revision": "1b5ab4eb943d9dc289fcf65b0719c1cd"
   },
   {
     "url": "tag/GitHub Actions/index.html",
-    "revision": "deb57344c1e755a00962539727517baa"
+    "revision": "90361bd70507773443416fd5c7bbacd2"
   },
   {
     "url": "tag/index.html",
-    "revision": "c413b5a3b76a3c5efaa7f6d28acca782"
+    "revision": "c3db8794e548a2d56091197968f1e3a1"
   },
   {
     "url": "tag/Web Scraper/index.html",
-    "revision": "7b2defbb50ce8d9849bd0e284192cefa"
+    "revision": "8aa50de80d4e128e9faaca430102cd72"
   },
   {
     "url": "tag/博客/index.html",
-    "revision": "93ce5a8f34fe1be925cd6d0edb25e16a"
+    "revision": "d006ba7f01357023a2fc31bf216d447b"
   },
   {
     "url": "tag/随笔/index.html",
-    "revision": "de16e5fe1e849580ee938f121da5925c"
+    "revision": "724237ce4d2d848816816fe4d7644d82"
   },
   {
     "url": "timeline/index.html",

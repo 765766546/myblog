@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "晴澜's blog",
+    "home_page_url": "https://qinglanyi.xyz",
+    "feed_url": "https://qinglanyi.xyz/feed.json",
+    "description": "晴澜IT教育",
+    "items": [
+        {
+            "id": "https://qinglanyi.xyz/auto-deploy-blog-by-github-actions.html",
+            "url": "https://qinglanyi.xyz/auto-deploy-blog-by-github-actions.html",
+            "title": "GitHub Actions入门教程：自动化部署静态博客",
+            "summary": "学习周刊-总第91期-一个开源的Git客户端",
+            "image": "https://tva1.sinaimg.cn/large/008eGmZEgy1gmzkfeqcwvj325y0u076a.jpg",
+            "date_modified": "2021-01-24T00:00:00.000Z"
+        }
+    ]
+}

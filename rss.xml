@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>晴澜&apos;s blog</title>
+        <link>https://qinglanyi.xyz</link>
+        <description>晴澜IT教育</description>
+        <lastBuildDate>Thu, 20 Jul 2023 11:04:59 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://qinglanyi.xyz/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GitHub Actions入门教程：自动化部署静态博客]]></title>
+            <link>https://qinglanyi.xyz/auto-deploy-blog-by-github-actions.html</link>
+            <guid>https://qinglanyi.xyz/auto-deploy-blog-by-github-actions.html</guid>
+            <pubDate>Sun, 24 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[学习周刊-总第91期-一个开源的Git客户端]]></description>
+            <enclosure url="https://tva1.sinaimg.cn/large/008eGmZEgy1gmzkfeqcwvj325y0u076a.jpg">
+            </enclosure>
+        </item>
+    </channel>
+</rss>

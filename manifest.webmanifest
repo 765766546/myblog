@@ -1,7 +1,7 @@
 {
-    "name": "somenzz的技术博客",
-    "short_name": "somenzz's Blog",
-    "description": "禅与计算机编程艺术，公众号：Python七号",
+    "name": "晴澜IT教育",
+    "short_name": "晴澜IT",
+    "description": "晴澜IT教育，传播IT技术",
     "lang": "zh-CN",
     "start_url": "/",
     "scope": "/",

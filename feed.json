@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "晴澜's blog",
+    "title": "去旅行吧",
     "home_page_url": "https://qinglanyi.xyz",
     "feed_url": "https://qinglanyi.xyz/feed.json",
-    "description": "晴澜IT教育",
+    "description": "世界那么大，让我们去旅行吧！",
     "items": [
         {
             "id": "https://qinglanyi.xyz/auto-deploy-blog-by-github-actions.html",

@@ -1,7 +1,7 @@
 {
-    "name": "晴澜IT教育",
-    "short_name": "晴澜IT",
-    "description": "晴澜IT教育，传播IT技术",
+    "name": "去旅行吧",
+    "short_name": "去旅行吧",
+    "description": "去旅行吧",
     "lang": "zh-CN",
     "start_url": "/",
     "scope": "/",
@@ -23,7 +23,7 @@
             "short_name": "关于我",
             "icons": [
                 {
-                    "src": "/profile.jpg",
+                    "src": "/myweixin.jpg",
                     "sizes": "460x460",
                     "purpose": "maskable",
                     "type": "image/jpg"

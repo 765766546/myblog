@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "5ca1f4b28ef8949184afeedd8ec4e585"
+    "revision": "c0e8f08287275fd86b2b6e13e9cf0606"
   },
   {
     "url": "assets/css/0.styles.109bf5e1.css",
@@ -86,8 +86,8 @@ self.__precacheManifest = [
     "revision": "60c987601899c60cb530d10409bd09ac"
   },
   {
-    "url": "assets/js/17.425d10e4.js",
-    "revision": "36057aee543e35d37e3d58cf02c280d2"
+    "url": "assets/js/17.f785e3d8.js",
+    "revision": "2ae6cc3aa215f61ca319a62f3e5f36bf"
   },
   {
     "url": "assets/js/18.4099982e.js",
@@ -122,8 +122,8 @@ self.__precacheManifest = [
     "revision": "eb4bad96dbb75984dd066cb1810d8349"
   },
   {
-    "url": "assets/js/app.8bfd61c9.js",
-    "revision": "c02e5d8e537b8e64b556e20ae48a3d13"
+    "url": "assets/js/app.f8d58181.js",
+    "revision": "0b07375f17fa993954b02f2b376c14f0"
   },
   {
     "url": "assets/js/vendors~flowchart.ad7e78af.js",
@@ -131,15 +131,15 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "921cc29db645b66d409e77c006f5e498"
+    "revision": "f4be9533ecdf761fa9a0637de4bf3921"
   },
   {
     "url": "categories/二年级/index.html",
-    "revision": "a6cbd32851c88f7b1050ffb956f34f71"
+    "revision": "ac0d5d9358a908bc9517b0c4db3c400c"
   },
   {
     "url": "chunyou.html",
-    "revision": "2b09b44921de0ba44fd18d086fa8e9d8"
+    "revision": "e733b3c24450e56efc11c95a7ae39350"
   },
   {
     "url": "chunyou1.jpg",
@@ -183,7 +183,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "f9d49247db828101ed15bd0ade28d4e8"
+    "revision": "4438752543dc4d5396ca2044b29419a1"
   },
   {
     "url": "lanlan-haitan.jpg",
@@ -223,7 +223,7 @@ self.__precacheManifest = [
   },
   {
     "url": "lianhuashanyouwan.html",
-    "revision": "b42644c4910347981791ea0ff8cf5648"
+    "revision": "ba3de56528e32dc633349cf943a83192"
   },
   {
     "url": "logo.png",
@@ -231,7 +231,7 @@ self.__precacheManifest = [
   },
   {
     "url": "myfriend.html",
-    "revision": "d2c1099dbc302b62418e64548d7b51fe"
+    "revision": "3a4bbf1719f8cbba112e2f290acd2f56"
   },
   {
     "url": "myweixin.jpg",
@@ -239,19 +239,19 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "b10c9db6d31acec974b2d5169d99f83d"
+    "revision": "d4dbeb1e44ee66697e30ddddf9649d73"
   },
   {
     "url": "tag/作文/index.html",
-    "revision": "5f8dbab6ca6f5196b7b5727f699f2baa"
+    "revision": "ff7a7af0246c6061357f92ac2241c8cd"
   },
   {
     "url": "timeline/index.html",
-    "revision": "83c7742b65fe3e59dab80c56c6d25f08"
+    "revision": "8223302075b72c26f8e88b8af49b5c78"
   },
   {
     "url": "wodexinqing.html",
-    "revision": "bacb08cfcae471c2523dbb3326fdf657"
+    "revision": "d76a433f08c16d898c746aa54303059c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "40f0ac6be2519dbe9677b204199fae92"
+    "revision": "65f029906f68c4ea03f2b7af8afdb152"
   },
   {
     "url": "assets/css/0.styles.109bf5e1.css",
@@ -138,8 +138,8 @@ self.__precacheManifest = [
     "revision": "418a64cf3f7f4868fb7f43ad2593b70b"
   },
   {
-    "url": "assets/js/app.c3fee612.js",
-    "revision": "b2b68400c19dfa3e449547765a1666a5"
+    "url": "assets/js/app.2cfe7466.js",
+    "revision": "6af55deee2494d5ee248f64213790844"
   },
   {
     "url": "assets/js/vendors~flowchart.f5be73c9.js",
@@ -147,15 +147,15 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "7aa3ae78536f8b6a2a4e04c989d2d688"
+    "revision": "1d77b4940792a8ec96d669367646207c"
   },
   {
     "url": "categories/二年级/index.html",
-    "revision": "5cabfd03853b1cb0da27c9ce1233eb45"
+    "revision": "6f2ccb21993242b61d882309704b84ce"
   },
   {
     "url": "chunyou.html",
-    "revision": "f8d2c6855bea1a5b51d4773923b12be8"
+    "revision": "25481ea5b410d9472be236ab3882402d"
   },
   {
     "url": "chunyou1.jpg",
@@ -199,7 +199,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e348673a53db51098c2ff85855210cc6"
+    "revision": "4c5fe72dce997dafc2d703ff588f9be7"
   },
   {
     "url": "lanlan-haitan.jpg",
@@ -239,7 +239,7 @@ self.__precacheManifest = [
   },
   {
     "url": "lianhuashanyouwan.html",
-    "revision": "036a9e25dd8fb198a81b08a8b95a1731"
+    "revision": "8f908c7f3af0adda5690a4e3c44767ce"
   },
   {
     "url": "logo.png",
@@ -247,7 +247,7 @@ self.__precacheManifest = [
   },
   {
     "url": "myfriend.html",
-    "revision": "9a041c61e054155d63f66bbfed0ec109"
+    "revision": "15744b10fa28cd1db5e59f123a234af8"
   },
   {
     "url": "myweixin.jpg",
@@ -255,19 +255,19 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "f93f0df777d6c6c3dad7bf6612e7fcb6"
+    "revision": "3f08872329a5779e35fc21a37e5472fc"
   },
   {
     "url": "tag/作文/index.html",
-    "revision": "4cff53db4021767567cb8872fa464274"
+    "revision": "8b471af8ab8b566e99bac44d84464f42"
   },
   {
     "url": "timeline/index.html",
-    "revision": "6910d8444f5502c460ce6cbed32eaa84"
+    "revision": "172c536dcec42862bd413b1c371061d8"
   },
   {
     "url": "wodexinqing.html",
-    "revision": "f63ea881e05270e0b143bf4b3eb61784"
+    "revision": "938d88a309449b32ee5fdf591852d49a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

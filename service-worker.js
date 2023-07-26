@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "03a6fb1a2f10bb609b25bde842734f13"
+    "revision": "5ca1f4b28ef8949184afeedd8ec4e585"
   },
   {
     "url": "assets/css/0.styles.109bf5e1.css",
@@ -86,8 +86,8 @@ self.__precacheManifest = [
     "revision": "60c987601899c60cb530d10409bd09ac"
   },
   {
-    "url": "assets/js/17.65ffd584.js",
-    "revision": "4ce8bd65ee1be685714e418a927b8869"
+    "url": "assets/js/17.425d10e4.js",
+    "revision": "36057aee543e35d37e3d58cf02c280d2"
   },
   {
     "url": "assets/js/18.4099982e.js",
@@ -122,8 +122,8 @@ self.__precacheManifest = [
     "revision": "eb4bad96dbb75984dd066cb1810d8349"
   },
   {
-    "url": "assets/js/app.68c5f190.js",
-    "revision": "12aab38da25cca4cdee98ded97911331"
+    "url": "assets/js/app.8bfd61c9.js",
+    "revision": "c02e5d8e537b8e64b556e20ae48a3d13"
   },
   {
     "url": "assets/js/vendors~flowchart.ad7e78af.js",
@@ -131,15 +131,15 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "8e805958f90e735d9b9557ec624e6a76"
+    "revision": "921cc29db645b66d409e77c006f5e498"
   },
   {
     "url": "categories/二年级/index.html",
-    "revision": "27e32a08afaf200399ecc60f73f5c51c"
+    "revision": "a6cbd32851c88f7b1050ffb956f34f71"
   },
   {
     "url": "chunyou.html",
-    "revision": "e31379d6c60d2d70f0dffe8ff31937ac"
+    "revision": "2b09b44921de0ba44fd18d086fa8e9d8"
   },
   {
     "url": "chunyou1.jpg",
@@ -170,8 +170,20 @@ self.__precacheManifest = [
     "revision": "95447d879af2d91219e97914ce6b358f"
   },
   {
+    "url": "friend1.jpg",
+    "revision": "0bb1a26c543fa54100348332b6c4fe98"
+  },
+  {
+    "url": "friend2.jpg",
+    "revision": "58c8038ad56334d0dce6213e74ab5fd4"
+  },
+  {
+    "url": "friend3.jpg",
+    "revision": "73914be4528a7253a1590140a241284a"
+  },
+  {
     "url": "index.html",
-    "revision": "83668945cd35d3dce9d82e86333f3741"
+    "revision": "f9d49247db828101ed15bd0ade28d4e8"
   },
   {
     "url": "lanlan-haitan.jpg",
@@ -211,7 +223,7 @@ self.__precacheManifest = [
   },
   {
     "url": "lianhuashanyouwan.html",
-    "revision": "f51a72858cd61fc264893c818a533a88"
+    "revision": "b42644c4910347981791ea0ff8cf5648"
   },
   {
     "url": "logo.png",
@@ -219,7 +231,7 @@ self.__precacheManifest = [
   },
   {
     "url": "myfriend.html",
-    "revision": "488a36de203119d4a9d2b771fb998356"
+    "revision": "d2c1099dbc302b62418e64548d7b51fe"
   },
   {
     "url": "myweixin.jpg",
@@ -227,19 +239,19 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "ceb0d2b8853e47c10f78d8aacf01fce6"
+    "revision": "b10c9db6d31acec974b2d5169d99f83d"
   },
   {
     "url": "tag/作文/index.html",
-    "revision": "8db4378021d4d2bb5bc6478c480d4af7"
+    "revision": "5f8dbab6ca6f5196b7b5727f699f2baa"
   },
   {
     "url": "timeline/index.html",
-    "revision": "d3bb64a784adc59f8ba2459dbbcab197"
+    "revision": "83c7742b65fe3e59dab80c56c6d25f08"
   },
   {
     "url": "wodexinqing.html",
-    "revision": "db2fdeae54057dd35fbe97b32284678f"
+    "revision": "bacb08cfcae471c2523dbb3326fdf657"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

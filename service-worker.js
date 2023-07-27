@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "4b4392a5544a30b3486e6f29e9f32cc0"
+    "revision": "9ef6a25dd808b8967059f895db214b49"
   },
   {
     "url": "assets/css/0.styles.3a649ab1.css",
@@ -54,12 +54,12 @@ self.__precacheManifest = [
     "revision": "f3bef1abd2bd0bfed23296944886d058"
   },
   {
-    "url": "assets/img/1690471419284.4880afb0.png",
-    "revision": "4880afb04d6930df7873d77c63b469ba"
-  },
-  {
     "url": "assets/img/1690471432463.915a8aa6.png",
     "revision": "915a8aa6078d21a9ad7eae30b9fb3b73"
+  },
+  {
+    "url": "assets/img/1690474536395.edc10d82.png",
+    "revision": "edc10d82166e84a85892c24ee4f622ad"
   },
   {
     "url": "assets/img/bg.2cfdbb33.svg",
@@ -98,8 +98,8 @@ self.__precacheManifest = [
     "revision": "63fcd38087138220df931ca404ff136c"
   },
   {
-    "url": "assets/js/14.fbd8ca3c.js",
-    "revision": "e9f634819e35c024f180221e9079951e"
+    "url": "assets/js/14.332ce745.js",
+    "revision": "bdc85efe7982183d3a87f9ee3840b557"
   },
   {
     "url": "assets/js/15.0933f440.js",
@@ -150,8 +150,8 @@ self.__precacheManifest = [
     "revision": "3f2677892ba591eaf3e791198d8479e2"
   },
   {
-    "url": "assets/js/app.e3965a45.js",
-    "revision": "a25c67ed5e70861ed287ffb9ad8f9b9a"
+    "url": "assets/js/app.33d87b39.js",
+    "revision": "40996435b1749143389ee798537c2b8a"
   },
   {
     "url": "assets/js/vendors~flowchart.75aeffec.js",
@@ -163,19 +163,19 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "6c41e9fba687cde6c65e3a9cf5f4eb16"
+    "revision": "90004f91bbe36794e256cbfea697e4e0"
   },
   {
     "url": "categories/二年级/index.html",
-    "revision": "ef7d1c31b456ce1637d209cf4b95ad59"
+    "revision": "b7db8e41c82409dbe0b607e3c8f1074b"
   },
   {
     "url": "categories/旅游/index.html",
-    "revision": "3a5bdf5933bb558e5213e52a03b4d999"
+    "revision": "358831ce5bd1a6df025054b4555d84cc"
   },
   {
     "url": "chongqing-lygl.html",
-    "revision": "3c3b81e35002e7b7cd2996c59e0d1284"
+    "revision": "52c0580c3ae9a493a172449e94669dcb"
   },
   {
     "url": "chongqing/cq1.png",
@@ -191,7 +191,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunyou.html",
-    "revision": "bca0665c8ec5f439558507006fd72702"
+    "revision": "33016e4875302432e31b9cfc91bc5cdd"
   },
   {
     "url": "chunyou1.jpg",
@@ -235,7 +235,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "455a111facb3d14d35ffc4f9522f386f"
+    "revision": "ff7067e427ef338cd4633f473340057b"
   },
   {
     "url": "lanlan-haitan.jpg",
@@ -275,7 +275,7 @@ self.__precacheManifest = [
   },
   {
     "url": "lianhuashanyouwan.html",
-    "revision": "f5b2c2a3ef09bb9201527f0e79197cc3"
+    "revision": "17462c556d2360e70a2736a90c91431f"
   },
   {
     "url": "logo.png",
@@ -283,7 +283,7 @@ self.__precacheManifest = [
   },
   {
     "url": "myfriend.html",
-    "revision": "c933882f1fae3dd2faf8e02c707fe67e"
+    "revision": "2f2ec17ce77ddfee20ff73089966882d"
   },
   {
     "url": "myweixin.jpg",
@@ -291,23 +291,23 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "7891586322ae7dee4ddd0b73d709f834"
+    "revision": "3a46c3d46f4dd3af0dc0ca1c3d6e6761"
   },
   {
     "url": "tag/作文/index.html",
-    "revision": "32e438c77251053fe6df741262dfcef5"
+    "revision": "0f7375308048a12cf3b7c21221eaa919"
   },
   {
     "url": "tag/攻略/index.html",
-    "revision": "db99d63e8300e2c253d15ba842569653"
+    "revision": "30645df8eb5eea200a365336d0378f15"
   },
   {
     "url": "timeline/index.html",
-    "revision": "719b36cb6034660b5b7e55d324bc7a9f"
+    "revision": "e6827ccf4961f04ba29c30b9e042045c"
   },
   {
     "url": "wodexinqing.html",
-    "revision": "28c88b71717788e3d00efe6c62e6e0e4"
+    "revision": "43bb8797d326a3246c38066e41a99e4d"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

@@ -43,6 +43,14 @@
             "summary": "重庆旅游攻略",
             "image": "https://qinglanyi.xyz/./image/chongqing-travel/1690471432463.png",
             "date_modified": "2023-03-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://qinglanyi.xyz/xizang-lygl.html",
+            "url": "https://qinglanyi.xyz/xizang-lygl.html",
+            "title": "西藏旅游攻略",
+            "summary": "西藏旅游攻略",
+            "image": "https://qinglanyi.xyz/./image/xizang-travel/1690533243505.png",
+            "date_modified": "2023-07-28T00:00:00.000Z"
         }
     ]
 }

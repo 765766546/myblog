@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qinglanyi.xyz</id>
     <title>去旅行吧</title>
-    <updated>2023-07-27T16:21:30.537Z</updated>
+    <updated>2023-07-28T09:28:38.681Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://qinglanyi.xyz"/>
     <link rel="self" href="https://qinglanyi.xyz/feed.atom"/>
@@ -46,5 +46,13 @@
         </link>
         <updated>2023-03-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[重庆旅游攻略]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西藏旅游攻略]]></title>
+        <id>https://qinglanyi.xyz/xizang-lygl.html</id>
+        <link href="https://qinglanyi.xyz/xizang-lygl.html">
+        </link>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[西藏旅游攻略]]></summary>
     </entry>
 </feed>

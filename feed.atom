@@ -1,74 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qinglanyi.xyz</id>
-    <title>去旅行吧</title>
-    <updated>2023-07-29T07:37:42.222Z</updated>
+    <title>晴澜翊IT技术</title>
+    <updated>2023-07-29T11:24:38.217Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://qinglanyi.xyz"/>
     <link rel="self" href="https://qinglanyi.xyz/feed.atom"/>
-    <subtitle>世界那么大，让我们去旅行吧！</subtitle>
+    <subtitle>晴澜翊分享、传播IT技术！</subtitle>
     <entry>
-        <title type="html"><![CDATA[难忘的一次春游]]></title>
-        <id>https://qinglanyi.xyz/chunyou.html</id>
-        <link href="https://qinglanyi.xyz/chunyou.html">
+        <title type="html"><![CDATA[pyqt5办案工具设计和实现]]></title>
+        <id>https://qinglanyi.xyz/banan.html</id>
+        <link href="https://qinglanyi.xyz/banan.html">
         </link>
-        <updated>2023-03-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3月14日这天，天气暖和，春风习习，阳光明媚，学校组织了春游。]]></summary>
+        <updated>2023-03-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[pyqt5办案工具设计和实现]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[莲花山游玩]]></title>
-        <id>https://qinglanyi.xyz/lianhuashanyouwan.html</id>
-        <link href="https://qinglanyi.xyz/lianhuashanyouwan.html">
+        <title type="html"><![CDATA[适合使用ESB的场景]]></title>
+        <id>https://qinglanyi.xyz/esb1.html</id>
+        <link href="https://qinglanyi.xyz/esb1.html">
         </link>
-        <updated>2023-03-11T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今天妈妈带我取莲花山公园玩，我开心极了。]]></summary>
+        <updated>2023-06-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[适合使用ESB的场景]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我的好朋友]]></title>
-        <id>https://qinglanyi.xyz/myfriend.html</id>
-        <link href="https://qinglanyi.xyz/myfriend.html">
+        <title type="html"><![CDATA[ESB技术白皮书]]></title>
+        <id>https://qinglanyi.xyz/esb3.html</id>
+        <link href="https://qinglanyi.xyz/esb3.html">
+        </link>
+        <updated>2023-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ESB技术白皮书]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT平台设备接入标准]]></title>
+        <id>https://qinglanyi.xyz/iot1.html</id>
+        <link href="https://qinglanyi.xyz/iot1.html">
+        </link>
+        <updated>2023-06-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IoT平台设备接入标准]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT平台应用开发标准]]></title>
+        <id>https://qinglanyi.xyz/iot2.html</id>
+        <link href="https://qinglanyi.xyz/iot2.html">
+        </link>
+        <updated>2023-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IoT平台应用开发标准]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT平台三方集成标准]]></title>
+        <id>https://qinglanyi.xyz/iot3.html</id>
+        <link href="https://qinglanyi.xyz/iot3.html">
+        </link>
+        <updated>2023-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IoT平台三方集成标准]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pyqt5办理流程工具设计和实现]]></title>
+        <id>https://qinglanyi.xyz/liucheng.html</id>
+        <link href="https://qinglanyi.xyz/liucheng.html">
         </link>
         <updated>2023-03-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[二年级-作文-我的好朋友]]></summary>
+        <summary type="html"><![CDATA[pyqt5办理流程工具设计和实现]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我的心情]]></title>
-        <id>https://qinglanyi.xyz/wodexinqing.html</id>
-        <link href="https://qinglanyi.xyz/wodexinqing.html">
+        <title type="html"><![CDATA[pyqt5牧场福利等级监测系统功能实现]]></title>
+        <id>https://qinglanyi.xyz/muchang.html</id>
+        <link href="https://qinglanyi.xyz/muchang.html">
         </link>
-        <updated>2023-04-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[通过这次的事，让我懂得了一个道理：不管遇到什么事都要乐观。😃😃]]></summary>
+        <updated>2023-04-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[pyqt5牧场福利等级监测系统功能实现]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[重庆旅游攻略]]></title>
-        <id>https://qinglanyi.xyz/chongqing-lygl.html</id>
-        <link href="https://qinglanyi.xyz/chongqing-lygl.html">
+        <title type="html"><![CDATA[pyqt5查询工具设计和实现]]></title>
+        <id>https://qinglanyi.xyz/wangluo-search.html</id>
+        <link href="https://qinglanyi.xyz/wangluo-search.html">
         </link>
         <updated>2023-03-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[重庆旅游攻略]]></summary>
+        <summary type="html"><![CDATA[pyqt5查询工具设计和实现]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[峨眉山旅游攻略]]></title>
-        <id>https://qinglanyi.xyz/emeishan-lygl.html</id>
-        <link href="https://qinglanyi.xyz/emeishan-lygl.html">
+        <title type="html"><![CDATA[pyqt5学生用电管理系统]]></title>
+        <id>https://qinglanyi.xyz/yongdian.html</id>
+        <link href="https://qinglanyi.xyz/yongdian.html">
         </link>
-        <updated>2023-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[峨眉山旅游攻略]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鼓浪屿旅游攻略]]></title>
-        <id>https://qinglanyi.xyz/gulangyu-lygl.html</id>
-        <link href="https://qinglanyi.xyz/gulangyu-lygl.html">
-        </link>
-        <updated>2023-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[鼓浪屿旅游攻略]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西藏旅游攻略]]></title>
-        <id>https://qinglanyi.xyz/xizang-lygl.html</id>
-        <link href="https://qinglanyi.xyz/xizang-lygl.html">
-        </link>
-        <updated>2023-07-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[西藏旅游攻略]]></summary>
+        <updated>2023-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[pyqt5学生用电管理系统]]></summary>
     </entry>
 </feed>

@@ -1,72 +1,83 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "去旅行吧",
+    "title": "晴澜翊IT技术",
     "home_page_url": "https://qinglanyi.xyz",
     "feed_url": "https://qinglanyi.xyz/feed.json",
-    "description": "世界那么大，让我们去旅行吧！",
+    "description": "晴澜翊分享、传播IT技术！",
     "items": [
         {
-            "id": "https://qinglanyi.xyz/chunyou.html",
-            "url": "https://qinglanyi.xyz/chunyou.html",
-            "title": "难忘的一次春游",
-            "summary": "3月14日这天，天气暖和，春风习习，阳光明媚，学校组织了春游。",
-            "image": "https://qinglanyi.xyz/./image/chunyou/1690354592516.png",
-            "date_modified": "2023-03-23T00:00:00.000Z"
+            "id": "https://qinglanyi.xyz/banan.html",
+            "url": "https://qinglanyi.xyz/banan.html",
+            "title": "pyqt5办案工具设计和实现",
+            "summary": "pyqt5办案工具设计和实现",
+            "date_modified": "2023-03-11T00:00:00.000Z"
         },
         {
-            "id": "https://qinglanyi.xyz/lianhuashanyouwan.html",
-            "url": "https://qinglanyi.xyz/lianhuashanyouwan.html",
-            "title": "莲花山游玩",
-            "summary": "今天妈妈带我取莲花山公园玩，我开心极了。",
-            "image": "https://qinglanyi.xyz/lianhuashan3.jpg",
-            "date_modified": "2023-03-11T22:00:00.000Z"
+            "id": "https://qinglanyi.xyz/esb1.html",
+            "url": "https://qinglanyi.xyz/esb1.html",
+            "title": "适合使用ESB的场景",
+            "summary": "适合使用ESB的场景",
+            "date_modified": "2023-06-02T00:00:00.000Z"
         },
         {
-            "id": "https://qinglanyi.xyz/myfriend.html",
-            "url": "https://qinglanyi.xyz/myfriend.html",
-            "title": "我的好朋友",
-            "summary": "二年级-作文-我的好朋友",
-            "image": "https://qinglanyi.xyz/friend1.jpg",
+            "id": "https://qinglanyi.xyz/esb3.html",
+            "url": "https://qinglanyi.xyz/esb3.html",
+            "title": "ESB技术白皮书",
+            "summary": "ESB技术白皮书",
+            "image": "file:///C:\\Users\\YANGJI~1\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.jpg",
+            "date_modified": "2023-06-06T00:00:00.000Z"
+        },
+        {
+            "id": "https://qinglanyi.xyz/iot1.html",
+            "url": "https://qinglanyi.xyz/iot1.html",
+            "title": "IoT平台设备接入标准",
+            "summary": "IoT平台设备接入标准",
+            "image": "file:///C:\\Users\\YANGJI~1\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.gif",
+            "date_modified": "2023-06-17T00:00:00.000Z"
+        },
+        {
+            "id": "https://qinglanyi.xyz/iot2.html",
+            "url": "https://qinglanyi.xyz/iot2.html",
+            "title": "IoT平台应用开发标准",
+            "summary": "IoT平台应用开发标准",
+            "image": "file:///C:\\Users\\YANGJI~1\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.jpg",
+            "date_modified": "2023-06-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://qinglanyi.xyz/iot3.html",
+            "url": "https://qinglanyi.xyz/iot3.html",
+            "title": "IoT平台三方集成标准",
+            "summary": "IoT平台三方集成标准",
+            "date_modified": "2023-07-07T00:00:00.000Z"
+        },
+        {
+            "id": "https://qinglanyi.xyz/liucheng.html",
+            "url": "https://qinglanyi.xyz/liucheng.html",
+            "title": "pyqt5办理流程工具设计和实现",
+            "summary": "pyqt5办理流程工具设计和实现",
+            "image": "file:///C:\\Users\\YANGJI~1\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.jpg",
             "date_modified": "2023-03-09T00:00:00.000Z"
         },
         {
-            "id": "https://qinglanyi.xyz/wodexinqing.html",
-            "url": "https://qinglanyi.xyz/wodexinqing.html",
-            "title": "我的心情",
-            "summary": "通过这次的事，让我懂得了一个道理：不管遇到什么事都要乐观。😃😃",
-            "date_modified": "2023-04-03T00:00:00.000Z"
+            "id": "https://qinglanyi.xyz/muchang.html",
+            "url": "https://qinglanyi.xyz/muchang.html",
+            "title": "pyqt5牧场福利等级监测系统功能实现",
+            "summary": "pyqt5牧场福利等级监测系统功能实现",
+            "date_modified": "2023-04-12T00:00:00.000Z"
         },
         {
-            "id": "https://qinglanyi.xyz/chongqing-lygl.html",
-            "url": "https://qinglanyi.xyz/chongqing-lygl.html",
-            "title": "重庆旅游攻略",
-            "summary": "重庆旅游攻略",
-            "image": "https://qinglanyi.xyz/./image/chongqing-travel/1690471432463.png",
+            "id": "https://qinglanyi.xyz/wangluo-search.html",
+            "url": "https://qinglanyi.xyz/wangluo-search.html",
+            "title": "pyqt5查询工具设计和实现",
+            "summary": "pyqt5查询工具设计和实现",
             "date_modified": "2023-03-09T00:00:00.000Z"
         },
         {
-            "id": "https://qinglanyi.xyz/emeishan-lygl.html",
-            "url": "https://qinglanyi.xyz/emeishan-lygl.html",
-            "title": "峨眉山旅游攻略",
-            "summary": "峨眉山旅游攻略",
-            "image": "https://qinglanyi.xyz/./image/emeishan-travel/1690567467596.png",
-            "date_modified": "2023-07-29T00:00:00.000Z"
-        },
-        {
-            "id": "https://qinglanyi.xyz/gulangyu-lygl.html",
-            "url": "https://qinglanyi.xyz/gulangyu-lygl.html",
-            "title": "鼓浪屿旅游攻略",
-            "summary": "鼓浪屿旅游攻略",
-            "image": "https://qinglanyi.xyz/image/gulangyu-travel/1690601063252.png",
-            "date_modified": "2023-07-29T00:00:00.000Z"
-        },
-        {
-            "id": "https://qinglanyi.xyz/xizang-lygl.html",
-            "url": "https://qinglanyi.xyz/xizang-lygl.html",
-            "title": "西藏旅游攻略",
-            "summary": "西藏旅游攻略",
-            "image": "https://qinglanyi.xyz/./image/xizang-travel/1690533243505.png",
-            "date_modified": "2023-07-28T00:00:00.000Z"
+            "id": "https://qinglanyi.xyz/yongdian.html",
+            "url": "https://qinglanyi.xyz/yongdian.html",
+            "title": "pyqt5学生用电管理系统",
+            "summary": "pyqt5学生用电管理系统",
+            "date_modified": "2023-05-21T00:00:00.000Z"
         }
     ]
 }

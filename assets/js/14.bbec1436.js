@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{640:function(n,t,e){"use strict";e.r(t);var s={},i=e(2),l=Object(i.a)(s,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("这是自定义的组件")])}),[],!1,null,null,null);t.default=l.exports}}]);

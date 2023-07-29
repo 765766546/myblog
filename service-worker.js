@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "58c52b6b0556bb7fa72d6fc87a8a1219"
+    "revision": "83cee48e9ff3fd165ce6916bc245774f"
   },
   {
     "url": "assets/css/0.styles.3a649ab1.css",
@@ -130,8 +130,8 @@ self.__precacheManifest = [
     "revision": "8c5842ca2d9abbc832152eb590c258e3"
   },
   {
-    "url": "assets/js/14.ad4ebeb5.js",
-    "revision": "4dcb79ff91c628b43f83a0bbe5106cca"
+    "url": "assets/js/14.c38aa8d8.js",
+    "revision": "8e78ca530a151b62b353a36157c84979"
   },
   {
     "url": "assets/js/15.db99e2ad.js",
@@ -142,8 +142,8 @@ self.__precacheManifest = [
     "revision": "2e3995d553f6eb35dcdf422d9376f3d1"
   },
   {
-    "url": "assets/js/17.aaa04c5c.js",
-    "revision": "cc3cc2e8d533cb79ffb9febe6a0405a3"
+    "url": "assets/js/17.2c8d69ff.js",
+    "revision": "e4007cba53835a78d47dffa8638d0f5d"
   },
   {
     "url": "assets/js/18.1c9bfece.js",
@@ -162,8 +162,12 @@ self.__precacheManifest = [
     "revision": "bf47e8efc3b2096ee7190734293630f8"
   },
   {
-    "url": "assets/js/22.2bdcb081.js",
-    "revision": "abfd120f71c18d1a1658493e87b41d96"
+    "url": "assets/js/22.1cab7d7d.js",
+    "revision": "58d310f694ace82fcc483848719f0e21"
+  },
+  {
+    "url": "assets/js/23.d218b640.js",
+    "revision": "92b0b044a8facd31a9802dcadd8270bb"
   },
   {
     "url": "assets/js/4.3ce31ff0.js",
@@ -190,8 +194,8 @@ self.__precacheManifest = [
     "revision": "0a967800475713faaf2e40e4d3e633d5"
   },
   {
-    "url": "assets/js/app.1f2f1c77.js",
-    "revision": "65fa64b01ad7fcba430268342b140505"
+    "url": "assets/js/app.9991d774.js",
+    "revision": "a9973bc3878fda16d1bc4bd3c5b3e772"
   },
   {
     "url": "assets/js/vendors~flowchart.16adfd93.js",
@@ -203,19 +207,19 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "421cf0873051c7333c38814af57983c1"
+    "revision": "eef4361ef8647ce3c07a118ac6169251"
   },
   {
     "url": "categories/二年级/index.html",
-    "revision": "d0e09f1fd38eec251f52fe20bad0a04c"
+    "revision": "5e9302e64bddff989c07381bb3eb8b6d"
   },
   {
     "url": "categories/旅游/index.html",
-    "revision": "66a68233c77b65d6d07a6df55bb18ead"
+    "revision": "d217b4850d0e45d314185d8458832b2d"
   },
   {
     "url": "chongqing-lygl.html",
-    "revision": "8e839d6271818a0486962058039fe263"
+    "revision": "4286d152a3e2c666f39fbef28ca871b8"
   },
   {
     "url": "chongqing/cq1.png",
@@ -231,7 +235,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunyou.html",
-    "revision": "4131a8457a0439af3a8d9b038adc4bb2"
+    "revision": "52872f23ef56e05e5983b784c142f0ff"
   },
   {
     "url": "chunyou1.jpg",
@@ -259,7 +263,7 @@ self.__precacheManifest = [
   },
   {
     "url": "emeishan-lygl.html",
-    "revision": "7a6a97056a125fda1f8cbacb62a01304"
+    "revision": "972a63271eda61889648b07df8b5c865"
   },
   {
     "url": "friend.jpg",
@@ -278,8 +282,12 @@ self.__precacheManifest = [
     "revision": "73914be4528a7253a1590140a241284a"
   },
   {
+    "url": "gulangyu-lygl.html",
+    "revision": "edf1f1335041f25ca3538f0b5b2e1c8b"
+  },
+  {
     "url": "index.html",
-    "revision": "f57495dcc7495a8140842fbadcf524bc"
+    "revision": "c0ecd3ed0861b4dd507f21c99ff24854"
   },
   {
     "url": "lanlan-haitan.jpg",
@@ -319,7 +327,7 @@ self.__precacheManifest = [
   },
   {
     "url": "lianhuashanyouwan.html",
-    "revision": "ed42da8a4464fa34209ea8e1a8daf126"
+    "revision": "7438f970182c9f267fe2e3ac0905696b"
   },
   {
     "url": "logo.png",
@@ -327,7 +335,7 @@ self.__precacheManifest = [
   },
   {
     "url": "myfriend.html",
-    "revision": "f82ce3093503e4cf8d9a8a53e2b40dd1"
+    "revision": "5febcd51132fb283da0379605a1511ed"
   },
   {
     "url": "myweixin-small.jpg",
@@ -339,27 +347,27 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "ec3aa529adcc2cbe29b79954d18bb212"
+    "revision": "118f643716a76aa51b3f71f94788a01a"
   },
   {
     "url": "tag/作文/index.html",
-    "revision": "206482fef0c6cb76d8e8a649ad4ea841"
+    "revision": "4a0629056526664a10dc93e0953fe351"
   },
   {
     "url": "tag/攻略/index.html",
-    "revision": "cb6556b992145fe00f5e9d0aa247c005"
+    "revision": "8134f5cedeac3fc15fd952598280a898"
   },
   {
     "url": "timeline/index.html",
-    "revision": "3b8e68013d90ab8e4b6e7d314cf6ac42"
+    "revision": "695bbef0ad5516a3ca5ebf8cd0d8219b"
   },
   {
     "url": "wodexinqing.html",
-    "revision": "ad937f83e03b0be5153950abadb30b03"
+    "revision": "bd7c1373db730108ac8b77550bfe74de"
   },
   {
     "url": "xizang-lygl.html",
-    "revision": "5251096719a0b1302f3c059d7a0f1914"
+    "revision": "de7f31bb3338fc680a6711e1ebb45c02"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

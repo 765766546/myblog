@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qinglanyi.xyz</id>
     <title>晴澜翊IT技术</title>
-    <updated>2023-07-29T11:24:38.217Z</updated>
+    <updated>2023-08-10T01:44:18.395Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://qinglanyi.xyz"/>
     <link rel="self" href="https://qinglanyi.xyz/feed.atom"/>

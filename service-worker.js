@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "ae926b4930e9b75b011eccfd285dbb3d"
+    "revision": "10b7de3a8b4db4ea9d21792ad46a739c"
   },
   {
     "url": "assets/css/0.styles.3a649ab1.css",
@@ -146,8 +146,8 @@ self.__precacheManifest = [
     "revision": "78a0a8ea6042fb02c635f7aab7eb1c44"
   },
   {
-    "url": "assets/js/app.48d46608.js",
-    "revision": "1b54fd758bf9e53bbb4fe6b2ed2ae35f"
+    "url": "assets/js/app.b52c2275.js",
+    "revision": "5d5646190e6534e19c1e67d2fcf0ca36"
   },
   {
     "url": "assets/js/vendors~flowchart.30922f4e.js",
@@ -155,7 +155,7 @@ self.__precacheManifest = [
   },
   {
     "url": "banan.html",
-    "revision": "841208840b28101550c0a38d39f71b5f"
+    "revision": "d7da9710b8d793f655767c25c5ee7871"
   },
   {
     "url": "beijing.gif",
@@ -163,23 +163,23 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/ESB/index.html",
-    "revision": "6ae70229a676bd55b4b55e191f0e0709"
+    "revision": "767b805515d6d532a98145ce4b8a7891"
   },
   {
     "url": "categories/index.html",
-    "revision": "389f27aca64a3e7a78f01e9d69dc7c14"
+    "revision": "54c836e72a72cb8b4fa9d357883b1fde"
   },
   {
     "url": "categories/IOT/index.html",
-    "revision": "49857ac26665d39dfe754a8080240109"
+    "revision": "25e4d74d88a1434cd1109dfc582d7156"
   },
   {
     "url": "categories/pyqt5/index.html",
-    "revision": "5246b66d423b822b64e60f6b40df17e5"
+    "revision": "af964f09ea628446ae8cd4004bcfefc6"
   },
   {
     "url": "categories/算法/index.html",
-    "revision": "ebf63b350e5e60906b31caa76cee68e7"
+    "revision": "d5cc95628d5f5fd2c8adbf6deaa810c1"
   },
   {
     "url": "chongqing/cq1.png",
@@ -223,15 +223,15 @@ self.__precacheManifest = [
   },
   {
     "url": "dongtaiguihua.html",
-    "revision": "27ad07fd423c69fed5ffec10e599cb2b"
+    "revision": "a40740c7fdf59c767b4ba12d3ff43ec5"
   },
   {
     "url": "esb1.html",
-    "revision": "4422af58eea0817ba870078cec2b8469"
+    "revision": "85a8de411729e21726c6fb6476fc16d3"
   },
   {
     "url": "esb3.html",
-    "revision": "df28e3a837a7f960c04af48ee7e1443a"
+    "revision": "a5e0e12984121a2332ad61df82fe8de8"
   },
   {
     "url": "friend.jpg",
@@ -251,19 +251,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a52fdedfc2658d5512541ad0697d3dbb"
+    "revision": "8a647c107462c3a8af3d8b992b6b075e"
   },
   {
     "url": "iot1.html",
-    "revision": "b155147cfaa7193596222a94f43593fd"
+    "revision": "eafa66b6b4545a0aa6cc7edc52bdf9df"
   },
   {
     "url": "iot2.html",
-    "revision": "c8e16cc2d23629d795e96f7809a8ce34"
+    "revision": "395d45eacc47679cff1ed843914e616b"
   },
   {
     "url": "iot3.html",
-    "revision": "ee7ac5b09f8635f51a81d129cf0bd853"
+    "revision": "f1bd69f39719c7494a161f3423a3f52c"
   },
   {
     "url": "lanlan-haitan.jpg",
@@ -303,7 +303,7 @@ self.__precacheManifest = [
   },
   {
     "url": "liucheng.html",
-    "revision": "582fb71b1ec12f4adcbbf0ed149e58e5"
+    "revision": "5c90f592fb2a7a1c8e1550201e11f60c"
   },
   {
     "url": "logo.png",
@@ -311,7 +311,7 @@ self.__precacheManifest = [
   },
   {
     "url": "muchang.html",
-    "revision": "c9220e79cb73df60bc551d74c26b23a4"
+    "revision": "1a0387a7d1d113b0da9efcccfad00ec6"
   },
   {
     "url": "myweixin-small.jpg",
@@ -323,63 +323,63 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/ESB技术/index.html",
-    "revision": "ae636103933d9fa4d60516b3bcd582ae"
+    "revision": "55b72fefd739217bb1d0147fb12ec8e5"
   },
   {
     "url": "tag/index.html",
-    "revision": "0cb326e3b24d6faee0a4ba0bce3afdcb"
+    "revision": "1e56eb111f2a23214a7f5ff9be2fd943"
   },
   {
     "url": "tag/使用场景/index.html",
-    "revision": "4912f681847170231548a3f627aa3ac7"
+    "revision": "8c73b405761a2b5db1ea6cebc2b10e09"
   },
   {
     "url": "tag/全文检索/index.html",
-    "revision": "038b892cfba33710bb071c96b5ed11eb"
+    "revision": "8b2d1828b6e81eb8d4577afe23e7f775"
   },
   {
     "url": "tag/办案流程/index.html",
-    "revision": "ab273d767c6e9d9601ca77d15f0636a3"
+    "revision": "02016db961789a88c59f82812ffc1fd3"
   },
   {
     "url": "tag/动态规划/index.html",
-    "revision": "31fa24018baf04b3313cc8deaddf1ef7"
+    "revision": "88faf06b34f9d1f39318247222b33945"
   },
   {
     "url": "tag/学生用电管理/index.html",
-    "revision": "50143fc1a8b3eac562289f68ed44811e"
+    "revision": "d0078ca7a4379f544f5e08288ca98263"
   },
   {
     "url": "tag/应用开发/index.html",
-    "revision": "0010706c4dcd5bc5b9ed910fb1375aec"
+    "revision": "96d8930d84b3ff30fa57d3e294d97858"
   },
   {
     "url": "tag/牧场系统/index.html",
-    "revision": "b084f15207f2e0898c1a7f7f9fbd2d89"
+    "revision": "5c7f5503f2d45a5d43f275754131d6a2"
   },
   {
     "url": "tag/系统集成/index.html",
-    "revision": "cd22221ceb5f1700e3ba4640c60eda11"
+    "revision": "50d4a09a8e7b7701005a7e5d1814d966"
   },
   {
     "url": "tag/设备接入/index.html",
-    "revision": "86eab59a5bf60982e534b8a6d9960cc3"
+    "revision": "b0453d74764bb78f5ef46e0474194835"
   },
   {
     "url": "tag/错字识别/index.html",
-    "revision": "99deb4875da15fc932183318448dc1d1"
+    "revision": "ea7b65be7079ae4c3a6fe6cdbb8078ba"
   },
   {
     "url": "timeline/index.html",
-    "revision": "577c510f7f81ad81ddb8b4b4f5e60007"
+    "revision": "c84e89ba071d13859acabb959ba89170"
   },
   {
     "url": "wangluo-search.html",
-    "revision": "ef548331ae02d94be9eefff5bafbf446"
+    "revision": "aed3c1eb9b235590fa68822773cbcc14"
   },
   {
     "url": "yongdian.html",
-    "revision": "7206f4331fc5b318f9d895c4fe9b618a"
+    "revision": "5174769bad53b6546fc6c1769e0c3467"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "06dc081ff573fdf8f687fed8dd6bbdaf"
+    "revision": "ae926b4930e9b75b011eccfd285dbb3d"
   },
   {
     "url": "assets/css/0.styles.3a649ab1.css",
@@ -58,8 +58,8 @@ self.__precacheManifest = [
     "revision": "49b10852bb8250f1f420ae9d53ec81f0"
   },
   {
-    "url": "assets/js/11.8f01eeae.js",
-    "revision": "186f6fd8a365ea647735ec9f2ad6369c"
+    "url": "assets/js/11.a624b9a2.js",
+    "revision": "d96b381a6e9a19217e754c600890ac77"
   },
   {
     "url": "assets/js/12.79599ba2.js",
@@ -78,44 +78,48 @@ self.__precacheManifest = [
     "revision": "3b64abb23a83a4192e25ede9f876fb70"
   },
   {
-    "url": "assets/js/16.c9f7d9d3.js",
-    "revision": "c8fa988aa53816b9e30635a94a3c7cec"
+    "url": "assets/js/16.a9208306.js",
+    "revision": "0ef8596e5dfdfd2d1b0d9a931a22b311"
   },
   {
-    "url": "assets/js/17.0b2f2664.js",
-    "revision": "252f6a060006d8dff168aad2b9a67890"
+    "url": "assets/js/17.2168478b.js",
+    "revision": "c4714ea7b0520534f78eb1b50049de1b"
   },
   {
-    "url": "assets/js/18.f10822ba.js",
-    "revision": "be49078270a911569434a6e0290b8c33"
+    "url": "assets/js/18.0f4e8ab0.js",
+    "revision": "bc5a44baf47bc040a79d48c7d5abf2e1"
   },
   {
-    "url": "assets/js/19.ccc3ed81.js",
-    "revision": "3e96b02183ec005ea63e3f0023595e25"
+    "url": "assets/js/19.e1d49627.js",
+    "revision": "bee402cc9d4a5653569e21f6dbe19f50"
   },
   {
-    "url": "assets/js/20.3e392d83.js",
-    "revision": "d1021c805944aef4661b31ff2bf5841c"
+    "url": "assets/js/20.3e395dd0.js",
+    "revision": "d302c70ccbbcbcf7768da38a8a178648"
   },
   {
-    "url": "assets/js/21.b99bef94.js",
-    "revision": "d3590627e7d0cde26be35e18c6532222"
+    "url": "assets/js/21.09c5e7ec.js",
+    "revision": "d8b3471e43dd3053dcd9d5c3bc6814e9"
   },
   {
-    "url": "assets/js/22.d5ad1f46.js",
-    "revision": "d8000d7f61b5ed892849a1a648033bc7"
+    "url": "assets/js/22.d86b16ad.js",
+    "revision": "2fa3aa98b7c1e25f96dde3f63034a4f2"
   },
   {
-    "url": "assets/js/23.2af50a32.js",
-    "revision": "fae2b769d37f24abd2f8a5f1a7a10d22"
+    "url": "assets/js/23.8b8e0dd1.js",
+    "revision": "c046fc49c6a2f81bbe26e151e05cf279"
   },
   {
-    "url": "assets/js/24.470b6986.js",
-    "revision": "6c044372fd6aab709ac38b9ffab82fb6"
+    "url": "assets/js/24.5c58c7a5.js",
+    "revision": "9e443b2a1b58604ac9c1fd41664d2afe"
   },
   {
-    "url": "assets/js/25.db664a57.js",
-    "revision": "076b8e4d0519b2996c9957f35b6b2cdd"
+    "url": "assets/js/25.52ee0e43.js",
+    "revision": "5c1d54394573ee762acc87529c0f09a2"
+  },
+  {
+    "url": "assets/js/26.b45d7eae.js",
+    "revision": "66fe5783254d3e503f8ab31090cb0d9d"
   },
   {
     "url": "assets/js/4.d3de53b4.js",
@@ -142,8 +146,8 @@ self.__precacheManifest = [
     "revision": "78a0a8ea6042fb02c635f7aab7eb1c44"
   },
   {
-    "url": "assets/js/app.1533fce9.js",
-    "revision": "e6c6ca344c3bf791158a1790c71fdfbe"
+    "url": "assets/js/app.48d46608.js",
+    "revision": "1b54fd758bf9e53bbb4fe6b2ed2ae35f"
   },
   {
     "url": "assets/js/vendors~flowchart.30922f4e.js",
@@ -151,7 +155,7 @@ self.__precacheManifest = [
   },
   {
     "url": "banan.html",
-    "revision": "7a6a82c8221d7891eef7dab5ab4e11f9"
+    "revision": "841208840b28101550c0a38d39f71b5f"
   },
   {
     "url": "beijing.gif",
@@ -159,19 +163,23 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/ESB/index.html",
-    "revision": "fc16880357615eaab1b78f11d3c8b590"
+    "revision": "6ae70229a676bd55b4b55e191f0e0709"
   },
   {
     "url": "categories/index.html",
-    "revision": "f41f6f65ac2f9f8bf0e2a0e300dfcf1f"
+    "revision": "389f27aca64a3e7a78f01e9d69dc7c14"
   },
   {
     "url": "categories/IOT/index.html",
-    "revision": "743a0a614350e7ccbb63da19798e98e5"
+    "revision": "49857ac26665d39dfe754a8080240109"
   },
   {
     "url": "categories/pyqt5/index.html",
-    "revision": "3fb44bbdf9710c1a4f92854bcd486d66"
+    "revision": "5246b66d423b822b64e60f6b40df17e5"
+  },
+  {
+    "url": "categories/算法/index.html",
+    "revision": "ebf63b350e5e60906b31caa76cee68e7"
   },
   {
     "url": "chongqing/cq1.png",
@@ -214,12 +222,16 @@ self.__precacheManifest = [
     "revision": "fa003c4562baa8108f9c785bf43cd30d"
   },
   {
+    "url": "dongtaiguihua.html",
+    "revision": "27ad07fd423c69fed5ffec10e599cb2b"
+  },
+  {
     "url": "esb1.html",
-    "revision": "a89395c753a5173bd569dafc34f6c032"
+    "revision": "4422af58eea0817ba870078cec2b8469"
   },
   {
     "url": "esb3.html",
-    "revision": "532542573bf8bcece2d156ddb361a56d"
+    "revision": "df28e3a837a7f960c04af48ee7e1443a"
   },
   {
     "url": "friend.jpg",
@@ -239,19 +251,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "dea9fdf2a0755783b058303a9292f0f4"
+    "revision": "a52fdedfc2658d5512541ad0697d3dbb"
   },
   {
     "url": "iot1.html",
-    "revision": "87c0da185716e1fa3c57caf21aa68081"
+    "revision": "b155147cfaa7193596222a94f43593fd"
   },
   {
     "url": "iot2.html",
-    "revision": "debec74447afb818a95b9569155fd860"
+    "revision": "c8e16cc2d23629d795e96f7809a8ce34"
   },
   {
     "url": "iot3.html",
-    "revision": "ee2b857179510b4ae1266bbe538af1b7"
+    "revision": "ee7ac5b09f8635f51a81d129cf0bd853"
   },
   {
     "url": "lanlan-haitan.jpg",
@@ -291,7 +303,7 @@ self.__precacheManifest = [
   },
   {
     "url": "liucheng.html",
-    "revision": "e0d95ee99460d1e85ea24dfb4fc7e822"
+    "revision": "582fb71b1ec12f4adcbbf0ed149e58e5"
   },
   {
     "url": "logo.png",
@@ -299,7 +311,7 @@ self.__precacheManifest = [
   },
   {
     "url": "muchang.html",
-    "revision": "ebb2536d619d6cde5c58b0b3a462875a"
+    "revision": "c9220e79cb73df60bc551d74c26b23a4"
   },
   {
     "url": "myweixin-small.jpg",
@@ -311,59 +323,63 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/ESB技术/index.html",
-    "revision": "03ed5beb4d39c434b6e4861a237a1872"
+    "revision": "ae636103933d9fa4d60516b3bcd582ae"
   },
   {
     "url": "tag/index.html",
-    "revision": "2bdcaa0f09f4c48b942ef759ead45f70"
+    "revision": "0cb326e3b24d6faee0a4ba0bce3afdcb"
   },
   {
     "url": "tag/使用场景/index.html",
-    "revision": "7ee3cc80efef9c108afb1fdf184c309a"
+    "revision": "4912f681847170231548a3f627aa3ac7"
   },
   {
     "url": "tag/全文检索/index.html",
-    "revision": "d17f2e29f72775af0c0dce3e8a831add"
+    "revision": "038b892cfba33710bb071c96b5ed11eb"
   },
   {
     "url": "tag/办案流程/index.html",
-    "revision": "966ae93182dc6960f49b6e8a1c85beb5"
+    "revision": "ab273d767c6e9d9601ca77d15f0636a3"
+  },
+  {
+    "url": "tag/动态规划/index.html",
+    "revision": "31fa24018baf04b3313cc8deaddf1ef7"
   },
   {
     "url": "tag/学生用电管理/index.html",
-    "revision": "f831c5a1c8c566db0e4fe215aa8fbe27"
+    "revision": "50143fc1a8b3eac562289f68ed44811e"
   },
   {
     "url": "tag/应用开发/index.html",
-    "revision": "f51e4567f2a2fb4552a4ce42ee082e42"
+    "revision": "0010706c4dcd5bc5b9ed910fb1375aec"
   },
   {
     "url": "tag/牧场系统/index.html",
-    "revision": "c6d04ab77e614936a76ace956ec6e7d8"
+    "revision": "b084f15207f2e0898c1a7f7f9fbd2d89"
   },
   {
     "url": "tag/系统集成/index.html",
-    "revision": "27046be6f1d770539e437979737df644"
+    "revision": "cd22221ceb5f1700e3ba4640c60eda11"
   },
   {
     "url": "tag/设备接入/index.html",
-    "revision": "51153cc90c390506849d0fe0ca13867f"
+    "revision": "86eab59a5bf60982e534b8a6d9960cc3"
   },
   {
     "url": "tag/错字识别/index.html",
-    "revision": "163777b723f0d9ba9f4d3a7e6c549082"
+    "revision": "99deb4875da15fc932183318448dc1d1"
   },
   {
     "url": "timeline/index.html",
-    "revision": "1bb3b5070018a98fcdfe9c00e2c139ee"
+    "revision": "577c510f7f81ad81ddb8b4b4f5e60007"
   },
   {
     "url": "wangluo-search.html",
-    "revision": "f6e8e677d3c930b910ce624886522b01"
+    "revision": "ef548331ae02d94be9eefff5bafbf446"
   },
   {
     "url": "yongdian.html",
-    "revision": "4218468d948b87e3e32844498a72901c"
+    "revision": "7206f4331fc5b318f9d895c4fe9b618a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

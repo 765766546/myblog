@@ -1,3 +1,0 @@
-Sitemap: https://qinglanyi.xyz/sitemap.xml
-
-User-agent: *
